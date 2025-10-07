@@ -99,8 +99,3 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 > Trouver une **alternance en développement web et applicatif** où je pourrai continuer à apprendre, à coder et à contribuer à des projets innovants.
 
 ---
-
-### 📊 Statistiques GitHub
-
-![Yahaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahayac753\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahayac753\&layout=compact\&theme=radical)

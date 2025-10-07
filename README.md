@@ -25,7 +25,8 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![PHP](https://skillicons.dev/icons?i=php)
-![JSON](https://skillicons.dev/icons?i=json)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![React](https://skillicons.dev/icons?i=react)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
 ### ⚙️ Application

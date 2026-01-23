@@ -61,6 +61,7 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---

@@ -54,12 +54,12 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ---
 
 ### 🧩 Frameworks & CMS
+![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
-![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 
 

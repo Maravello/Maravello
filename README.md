@@ -25,7 +25,6 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 
 
 ### 🌐 Web
-
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)

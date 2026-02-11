@@ -67,7 +67,6 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)

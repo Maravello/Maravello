@@ -31,7 +31,6 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![PHP](https://skillicons.dev/icons?i=php)
-![SQL](https://skillicons.dev/icons?i=mysql)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Lua](https://skillicons.dev/icons?i=lua)
@@ -67,6 +66,7 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)

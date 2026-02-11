@@ -17,7 +17,7 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 
 ---
 
-## 💻 Langages & Frameworks
+
 
 ### 🌐 Web
 

@@ -34,10 +34,10 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-<img src="https://logo.svgcdn.com/devicon/blazor-original.svg" width="50" height="50" alt="Blazor Logo"/>
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Lua](https://skillicons.dev/icons?i=lua)
 ![Python](https://skillicons.dev/icons?i=python)
+<img src="https://logo.svgcdn.com/devicon/blazor-original.svg" width="50" height="50" alt="Blazor Logo"/>
 
 
 

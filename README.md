@@ -15,7 +15,12 @@ Mon parcours m’a permis de développer des compétences solides en **développ
 
 Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les **méthodes AGILE et SCRUM**.
 
+
 ---
+
+## 🎮 Jeux
+![Studio](https://skillicons.dev/icons?i=robloxstudio)
+![Godot](https://skillicons.dev/icons?i=godot)
 
 
 
@@ -53,12 +58,6 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
 ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
-
----
-
-## 🧰 Jeux
-![Studio](https://skillicons.dev/icons?i=robloxstudio)
-![Godot](https://skillicons.dev/icons?i=godot)
 
 
 ---

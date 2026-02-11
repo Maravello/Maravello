@@ -68,13 +68,13 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![LWS](https://img.shields.io/badge/LWS-FF4500?style=for-the-badge&logoColor=white)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Gradle](https://skillicons.dev/icons?i=gradle)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![LWS](https://img.shields.io/badge/LWS-FF4500?style=for-the-badge&logoColor=white)
 
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 

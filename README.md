@@ -53,6 +53,18 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
 ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
+
+---
+
+## 🧰 Jeux
+
+![Studio](https://skillicons.dev/icons?i=robloxstudio)
+![Godot](https://skillicons.dev/icons?i=godot)
+
+
+
+
+
 ---
 
 ## 🧰 Outils & Technologies
@@ -66,8 +78,9 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Gradle](https://skillicons.dev/icons?i=gradle)
+
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Studio](https://skillicons.dev/icons?i=robloxstudio)
 
 
 ---

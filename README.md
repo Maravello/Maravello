@@ -27,13 +27,16 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 
 
 ### 🌐 Web
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+
 ![PHP](https://skillicons.dev/icons?i=php)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Lua](https://skillicons.dev/icons?i=lua)
+![Python](https://skillicons.dev/icons?i=python)
 <img src="https://logo.svgcdn.com/devicon/blazor-original.svg" width="50" height="50" alt="Blazor Logo"/>
 
 

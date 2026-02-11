@@ -21,6 +21,8 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ## 🎮 Jeux
 ![Studio](https://skillicons.dev/icons?i=robloxstudio)
 ![Godot](https://skillicons.dev/icons?i=godot)
+<img src="https://logo.svgcdn.com/devicon/love2d-original.svg" width="50" height="50" alt="Love2D Logo"/>
+
 
 
 

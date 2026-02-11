@@ -74,6 +74,8 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![LWS](https://img.shields.io/badge/LWS-FF4500?style=for-the-badge&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" width="40" height="40" alt="Microsoft SQL Server Logo"/>
+
 
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 

@@ -29,6 +29,7 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Lua](https://skillicons.dev/icons?i=lua)
+![Blazor](https://skillicons.dev/icons?i=blazor)
 
 ---
 

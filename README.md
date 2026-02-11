@@ -29,7 +29,7 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Lua](https://skillicons.dev/icons?i=lua)
-<img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/logo/blazor.svg" width="50" height="50" alt="Blazor Logo"/>
+<img src="https://logo.svgcdn.com/devicon/blazor-original.svg" width="50" height="50" alt="Blazor Logo"/>
 
 
 

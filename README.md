@@ -1,4 +1,4 @@
-![blazor](https://github.com/user-attachments/assets/5251ed52-9545-4721-8e42-141e071fa306)# 👋 Salut, moi c’est **Yahaya Coulibaly**
+# 👋 Salut, moi c’est **Yahaya Coulibaly**
 
 🎓 **Étudiant en Licence Professionnelle Métiers de l’Informatique – Applications Web (LP MIAW)**  
 💼 **Actuellement en alternance à la Mairie de Montfermeil** en tant que développeur web  
@@ -29,7 +29,7 @@ Je suis curieux, autonome et j’aime travailler en équipe, notamment avec les 
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Lua](https://skillicons.dev/icons?i=lua)
-![Blazor Logo](https://raw.githubusercontent.com/dotnet/brand/main/logo/logo/blazor.svg)
+![blazor](https://github.com/user-attachments/assets/5251ed52-9545-4721-8e42-141e071fa306)
 
 
 
